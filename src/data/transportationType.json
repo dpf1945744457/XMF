@@ -1,0 +1,67 @@
+[
+  {
+    "value": "0",
+    "label": "非保税区"
+  },
+  {
+    "value": "1",
+    "label": "监管仓库"
+  },
+  {
+    "value": "2",
+    "label": "水路运输"
+  },
+  {
+    "value": "3",
+    "label": "铁路运输"
+  },
+  {
+    "value": "4",
+    "label": "公路运输"
+  },
+  {
+    "value": "5",
+    "label": "航空运输"
+  },
+  {
+    "value": "6",
+    "label": "邮件运输"
+  },
+  {
+    "value": "7",
+    "label": "保税区"
+  },
+  {
+    "value": "8",
+    "label": "保税仓库"
+  },
+  {
+    "value": "9",
+    "label": "其它运输"
+  },
+  {
+    "value": "A",
+    "label": "全部运输方式"
+  },
+  {
+    "value": "H",
+    "label": "边境特殊海关作业区"
+  },
+  {
+    "value": "W",
+    "label": "物流中心"
+  },
+  {
+    "value": "X",
+    "label": "物流园区"
+  },
+  {
+    "value": "Y",
+    "label": "保税港区"
+  },
+  {
+    "value": "Z",
+    "label": "出口加工区"
+  }
+
+]

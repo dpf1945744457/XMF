@@ -1,0 +1,51 @@
+{
+  "id": "2055636",
+  "name": "小蜜蜂",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9572494",
+      "name": "信号",
+      "font_class": "IOTtubiao_huabanfuben",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "1026174",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "2328342",
+      "name": "信号",
+      "font_class": "xinhao1",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "554258",
+      "name": "电池",
+      "font_class": "iconset0250",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "1159517",
+      "name": "定位3",
+      "font_class": "dingwei3",
+      "unicode": "e74d",
+      "unicode_decimal": 59213
+    },
+    {
+      "icon_id": "5651539",
+      "name": "无线网",
+      "font_class": "wuxianwang",
+      "unicode": "e699",
+      "unicode_decimal": 59033
+    }
+  ]
+}

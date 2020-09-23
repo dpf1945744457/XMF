@@ -1,0 +1,257 @@
+{
+  "roleStatus": {
+    "true": {
+      "name": "关闭",
+      "color": "#E6A23C"
+    },
+    "false": {
+      "name": "开启",
+      "color": "#67C23A"
+    }
+  },
+  "settleSent": {
+    "0": {
+      "name": "未出款",
+      "color": "#E6A23C"
+    },
+    "1": {
+      "name": "已出款",
+      "color": "#67C23A"
+    }
+  },
+  "emailNotice": {
+    "true": {
+      "name": "开启",
+      "color": "#67C23A"
+    },
+    "false": {
+      "name": "关闭",
+      "color": "#E6A23C"
+    }
+  },
+  "commentStatus": {
+    "0": {
+      "name": "待审核",
+      "color": "#409EFF"
+    },
+    "1": {
+      "name": "通过",
+      "color": "#67C23A"
+    },
+    "2": {
+      "name": "不通过",
+      "color": "#E6A23C"
+    }
+  },
+  "sexStatus": {
+    "0": {
+      "name": "未知",
+      "color": "#909399"
+    },
+    "1": {
+      "name": "男",
+      "color": "#409EFF"
+    },
+    "2": {
+      "name": "女",
+      "color": "#F56C6C"
+    }
+  },
+  "userLevel": {
+    "0": {
+      "name": "普通用户",
+      "color": "#409EFF"
+    },
+    "1": {
+      "name": "VIP用户",
+      "color": "#E6A23C"
+    },
+    "2": {
+      "name": "高级VIP用户",
+      "color": "#67C23A"
+    }
+  },
+  "userStatus": {
+    "0": {
+      "name": "可用",
+      "color": "#67C23A"
+    },
+    "1": {
+      "name": "禁用",
+      "color": "#F56C6C"
+    },
+    "2": {
+      "name": "注销",
+      "color": "#909399"
+    }
+  },
+  "orderReportStatus": {
+    "0": {
+      "name": "初始",
+      "color": "#409EFF"
+    },
+    "1": {
+      "name": "受理",
+      "color": "#E6A23C"
+    },
+    "2": {
+      "name": "成功",
+      "color": "#67C23A"
+    },
+    "3": {
+      "name": "失败",
+      "color": "#F56C6C"
+    }
+  },
+  "payReportStatus": {
+    "0": {
+      "name": "初始",
+      "color": "#409EFF"
+    },
+    "1": {
+      "name": "受理",
+      "color": "#E6A23C"
+    },
+    "2": {
+      "name": "成功",
+      "color": "#67C23A"
+    },
+    "3": {
+      "name": "失败",
+      "color": "#F56C6C"
+    }
+  },
+  "freightReportStatus": {
+    "0": {
+      "name": "初始",
+      "color": "#409EFF"
+    },
+    "1": {
+      "name": "受理",
+      "color": "#E6A23C"
+    },
+    "2": {
+      "name": "成功",
+      "color": "#67C23A"
+    },
+    "3": {
+      "name": "失败",
+      "color": "#F56C6C"
+    }
+  },
+  "orderPayChannel": [
+     {
+      "id":1,
+      "name": "快捷",
+      "color": "#67C23A"
+    },
+    {
+      "id":2,
+      "name": "微信",
+      "color": "#909399"
+    },
+     {
+      "id":3,
+      "name": "支付宝",
+      "color": "#909399"
+    },
+    {
+      "id":4,
+      "name": "海外SDK收银台",
+      "color": "#909399"
+    }
+  ],
+  "orderStatus": [
+     {
+      "id":101,
+      "name": "未付款",
+      "color": "#909399"
+    },
+   {
+      "id":102,
+      "name": "用户取消",
+      "color": "#909399"
+    },
+     {
+      "id":103,
+      "name": "系统取消",
+      "color": "#909399"
+    },
+   {
+      "id":109,
+      "name": "付款失败",
+      "color": "#F56C6C"
+    },
+    {
+      "id":201,
+      "name": "已付款",
+      "color": "#67C23A"
+    },
+     {
+      "id":206,
+      "name": "拒绝退款",
+      "color": "#909399"
+    },
+     {
+      "id":202,
+      "name": "申请退款",
+      "color": "#E6A23C"
+    },
+     {
+      "id":204,
+      "name": "已付款(退款失败)",
+      "color": "#F56C6C"
+    },
+     {
+      "id":209,
+      "name": "后台退款",
+      "color": "#909399"
+    },
+     {
+      "id":203,
+      "name": "已退款",
+      "color": "#909399"
+    },
+     {
+      "id":301,
+      "name": "已发货",
+      "color": "#67C23A"
+    },
+     {
+      "id":401,
+      "name": "用户收货",
+      "color": "#67C23A"
+    },
+     {
+      "id":402,
+      "name": "系统收货",
+      "color": "#67C23A"
+    },
+    {
+      "id":409,
+      "name": "待评价",
+      "color": "#67C23A"
+    }
+  ],
+  "allocateCargoStatus":[{
+    "id":0,
+    "name": "未付款",
+    "color": "#909399"
+  },
+  {
+    "id":1,
+    "name": "待拣货",
+    "color": "#E6A23C"
+  },
+   {
+    "id":2,
+    "name": "已拣货",
+    "color": "#67C23A"
+  },
+ {
+    "id":10,
+    "name": "缺货",
+    "color": "red"
+  }]
+   
+}
